@@ -42,10 +42,10 @@
  
  ~~~
  <div> 
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-
 <head>
+    <meta charset="utf-8">
     <title>2번째 실습</title>
     <p>젊음팀 화이팅!</p>
 </head>
@@ -67,7 +67,7 @@
         <p> 광고가 들어갈 자리</p>
     </aside>
     <footer>
-        <p> 회사 정보가 들어갈자리</p>
+        <p> 회사 저ㅇ보가 들어갈자리</p>
     </footer>
 
 </body>
