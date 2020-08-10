@@ -3,3 +3,9 @@
 * Post1
 * Post2
 * Post3
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2017-05-06 13:45:35 +0900
+categories: jekyll update
+---
