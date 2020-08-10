@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 title: Computer Programming Blog
 email: hmm8816@naver.com
-description: 
-프로젝트를 위한 블로그 입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mirim6235
