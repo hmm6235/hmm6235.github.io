@@ -20,6 +20,25 @@ ex) href
 >> <a href="http://www.naver.com">Go Naver</a>
 >> 여기서 href는 속성의 의미를 가짐!
 
+* URL
+>> 인터넷에서 HTML 페이지, CSS문서, 이미지 등 자원(Resource)의 위치를 나타냄
+>> href의 속성이 됨
+
+
+- 절대 URL
+
+: 접근하는 최초 시작점부터 경유한 경로를 모두 기록하여 리소스의 위치를 나타냄
+
+ex) \Users\hmm62\Desktop\LikeLion\first_git
+
+- 상대 URL
+
+: 기준점을 기준으로 상대적인 경로를 기록하여 리소스의 위치를 나타냄
+
+ex) .\first_git 
+>> 현재 경로(위치:LikeLion)에서 first_git으로 이동
+
+
 ### href를 이용한 간단한 실습
  ~~~
  <div>
