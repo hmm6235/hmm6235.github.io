@@ -20,5 +20,21 @@ ex) href
 >> <a href="http://www.naver.com">Go Naver</a>
 >> 여기서 href는 속성의 의미를 가짐!
 
+### href를 이용한 간단한 실습
+ ~~~
+ <div>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>젊음 팀 화이팅!</title>
+    </head>
+    <body>
+        <h1> Class Lion 강의 Chapter 4에 대한 요약본 입니다.</h1>
+        <a href = https://github.com/hmm6235/hmm6235.github.io/blob/master/Chapter4_Linktag.md>클릭!</a>
+    </body>
+</html>
+ </div>
+ ~~~
 
 
