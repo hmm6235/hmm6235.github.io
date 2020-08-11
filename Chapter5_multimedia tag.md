@@ -25,3 +25,25 @@
 </html>
  </div>
  ~~~
+
+## 동영상 태그를 이용한 간단한 실습
+
+ ~~~
+ <div>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>젊음 팀 화이팅!</title>
+    </head>
+    <body>
+        <h1> Class Lion 강의 Chapter 4에 대한 요약본 입니다.</h1>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEw2Ft_LgHb6VKRvSkN2GLKMVach-zh8SToQ&usqp=CAU" alt ="화이팅 사진" height = "320px"></src>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/STwHSJSA86c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+        <br>
+        <br>
+        <a href = https://github.com/hmm6235/hmm6235.github.io/blob/master/Chapter4_Linktag.md>클릭!</a>
+    </body>
+</html>
+ </div>
+ ~~~
